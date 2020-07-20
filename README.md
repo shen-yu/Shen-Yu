@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+### Hey 👋, I'm [Eric Shen](https://shen-yu.gitee.io/)!
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Shen-Yu&show_icons=true)
+
+<a title="Hits" target="_blank" href="https://github.com/Shen-Yu/Shen-Yu"><img src="https://hits.b3log.org/Shen-Yu/Shen-Yu.svg"></a>
+
 <!--
 **Shen-Yu/Shen-Yu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
