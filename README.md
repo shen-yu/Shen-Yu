@@ -1,5 +1,4 @@
 ### Hey 😄 , I'm [Eric Shen](https://shen-yu.gitee.io/) !
-- 🔭 I’m currently working on creating.
 - 🌱 I’m currently learning data analysis.
 - 👯 I’m looking to collaborate on business startups.
 - :fire: O ever youthful, O ever weeping.
