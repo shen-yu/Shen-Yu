@@ -14,7 +14,6 @@
 <code><img src=https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original.svg alt=html5 width="40" height="40"/></code>
 <code><img src=https://devicons.github.io/devicon/devicon.git/icons/jquery/jquery-original.svg alt=jquery width="40" height="40"/></code>
 <code><img src=https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg alt=bootstrap width="40" height="40"/></code>
-<code><img src=https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg alt=photoshop width="40" height="40"/></code>
 <code><img src=https://devicons.github.io/devicon/devicon.git/icons/yarn/yarn-original.svg alt=yarn width="40" height="40"/></code>
 <code><img src=https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg alt=php width="40" height="40"/></code>
 <code><img src=https://devicons.github.io/devicon/devicon.git/icons/wordpress/wordpress-original.svg alt=wordpress width="40" height="40"/></code>
@@ -22,3 +21,4 @@
 <code><img src=https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg alt=python width="40" height="40"/></code>
 <code><img src=https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original.svg alt=mysql width="40" height="40"/></code>
 <code><img src=https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg alt=nginx width="40" height="40"/></code>
+<code><img src=https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg alt=photoshop width="40" height="40"/></code>
