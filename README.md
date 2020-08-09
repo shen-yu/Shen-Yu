@@ -1,4 +1,4 @@
-###  :man_technologist:  [Shen-Yu](https://shen-yu.gitee.io/)
+### :man_technologist:  Hey!  i'm [Eric Shen](https://shen-yu.gitee.io/)
 
 ![visitors-count](https://visitor-badge.laobi.icu/badge?page_id=Shen-Yu.readme)
 
