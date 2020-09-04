@@ -1,12 +1,12 @@
-### :man_technologist:  Hey!  i'm [Eric Shen](https://shen-yu.gitee.io/), a developer from China.
+## :man_technologist:  Hey!  i'm [Eric Shen](https://shen-yu.gitee.io/), a developer from China.
 
-#### Languages I use
+### Languages I use
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
 
-#### Some of the technologies I have worked with
+### Some of the technologies I have worked with
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
@@ -50,7 +50,7 @@
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github)
 
-#### Some of my favorite open source projects
+### Some of my favorite open source projects
 
 [![Hexo](https://img.shields.io/badge/-Hexo-000000?style=flat&logo=Hexo)](https://hexo.io/)
 [![Gatsby](https://img.shields.io/badge/-Gatsby-000000?style=flat&logo=Gatsby)](https://www.gatsbyjs.com/)
@@ -58,16 +58,16 @@
 [![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
 ![pandas](https://img.shields.io/badge/-Pandas-000000?style=flat&logo=pandas)
 
-#### Some of my open source projects
+### Some of my open source projects
 
 - [hexo-theme-ayer](https://github.com/Shen-Yu/hexo-theme-ayer) - a clean and elegant theme for Hexo.
 - [hexo-tag-chart](https://github.com/Shen-Yu/hexo-tag-chart) - insert Chartjs in Hexo by using tags.
 - [b2-viewer](https://github.com/Shen-Yu/b2-viewer) - a web file browser for Backblaze B2.
 
-#### Open Source Work Stats
+### Open Source Work Stats
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Shen-Yu&show_icons=true)
 
-#### Visitors Count
+### Visitors Count
 
 ![visitors-count](https://visitor-badge.laobi.icu/badge?page_id=Shen-Yu.readme)
