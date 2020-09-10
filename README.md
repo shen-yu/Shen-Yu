@@ -64,7 +64,7 @@
 [![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
 ![pandas](https://img.shields.io/badge/-Pandas-000000?style=flat&logo=pandas)
 
-### 💡 Some of my open source projects
+### 💡 Projects with My Work
 
 - [hexo-theme-ayer](https://github.com/Shen-Yu/hexo-theme-ayer) - a clean and elegant theme for Hexo.
 - [hexo-tag-chart](https://github.com/Shen-Yu/hexo-tag-chart) - insert Chartjs in Hexo by using tags.
