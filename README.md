@@ -70,6 +70,7 @@
 
 - [hexo-theme-ayer](https://github.com/Shen-Yu/hexo-theme-ayer) - a clean and elegant theme for Hexo.
 - [hexo-tag-chart](https://github.com/Shen-Yu/hexo-tag-chart) - insert Chartjs in Hexo by using tags.
+- [hugo-chart](https://github.com/Shen-Yu/hugo-chart) - a Chart.js component for Hugo.
 - [b2-viewer](https://github.com/Shen-Yu/b2-viewer) - a web file browser for Backblaze B2.
 
 ### 💻 Open Source Work Stats
