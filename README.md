@@ -28,6 +28,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=Bootstrap)
 ![D3.js](https://img.shields.io/badge/-D3.js-000000?style=flat&logo=D3.js)
 ![Hexo](https://img.shields.io/badge/-Hexo-000000?style=flat&logo=Hexo)
+![Hugo](https://img.shields.io/badge/-Hugo-000000?style=flat&logo=Hugo)
 ![Gatsby](https://img.shields.io/badge/-Gatsby-000000?style=flat&logo=Gatsby)
 ![WordPress](https://img.shields.io/badge/-WordPress-000000?style=flat&logo=WordPress)
 ![Drupal](https://img.shields.io/badge/-Drupal-000000?style=flat&logo=Drupal)
@@ -63,6 +64,7 @@
 ![Vue](https://img.shields.io/badge/-Vue-000000?style=flat&logo=Vue.js)
 [![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
 ![pandas](https://img.shields.io/badge/-Pandas-000000?style=flat&logo=pandas)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-000000?style=flat&logo=Cloudflare)
 
 ### 💡 Projects with My Work
 
