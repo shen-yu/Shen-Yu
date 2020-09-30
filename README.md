@@ -60,10 +60,10 @@
 ### :heart: Some of my favorite open source projects
 
 [![Hexo](https://img.shields.io/badge/-Hexo-000000?style=flat&logo=Hexo)](https://hexo.io/)
+![Hugo](https://img.shields.io/badge/-Hugo-000000?style=flat&logo=Hugo)
 [![Gatsby](https://img.shields.io/badge/-Gatsby-000000?style=flat&logo=Gatsby)](https://www.gatsbyjs.com/)
 ![Vue](https://img.shields.io/badge/-Vue-000000?style=flat&logo=Vue.js)
 [![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
-![pandas](https://img.shields.io/badge/-Pandas-000000?style=flat&logo=pandas)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-000000?style=flat&logo=Cloudflare)
 
 ### 💡 Projects with My Work
