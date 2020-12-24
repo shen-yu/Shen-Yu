@@ -65,9 +65,9 @@
 ### :heart: Some of my favorite open source projects
 
 [![Hexo](https://img.shields.io/badge/-Hexo-000000?style=flat&logo=Hexo)](https://hexo.io/)
-[![Hugo](https://img.shields.io/badge/-Hugo-000000?style=flat&logo=Hugo)](https://github.com/gohugoio/hugo)
-[![Vue](https://img.shields.io/badge/-Vue-000000?style=flat&logo=Vue.js)](https://github.com/vuejs/vue)
+[![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js)](https://github.com/nodejs)
 [![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-000000?style=flat&logo=Cloudflare)
 [![jsDelivr](https://img.shields.io/badge/-jsDelivr-000000?style=flat&logo=jsDelivr)](https://github.com/jsdelivr/jsdelivr)
 [![Awesome](https://img.shields.io/badge/-Awesome-000000?style=flat&logo=awesome-lists)](https://github.com/sindresorhus/awesome)
 
