@@ -1,4 +1,4 @@
-## :man_technologist:  Hey!  i'm [Eric Shen](https://shen-yu.gitee.io/), a developer from China.
+## :man_technologist:  Hey!  i'm [Eric](https://shen-yu.gitee.io/), a developer from China.
 
 ### :zap: Languages I use
 
