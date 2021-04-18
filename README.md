@@ -77,6 +77,7 @@
 - [hexo-tag-chart](https://github.com/Shen-Yu/hexo-tag-chart) - insert Chartjs in Hexo by using tags.
 - [hugo-chart](https://github.com/Shen-Yu/hugo-chart) - a Chart.js component for Hugo.
 - [b2-viewer](https://github.com/Shen-Yu/b2-viewer) - a web file browser for Backblaze B2.
+- [IPTV-list](https://github.com/Shen-Yu/iptv-list) - IPTV-list makes it easy to copy and play IPTV channels.
 
 ### 💻 Open Source Work Stats
 
