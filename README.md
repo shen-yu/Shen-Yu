@@ -40,6 +40,7 @@
 ![PyPI](https://img.shields.io/badge/-PyPI-000000?style=flat&logo=PyPI)
 ![Numpy](https://img.shields.io/badge/-Numpy-000000?style=flat&logo=Numpy)
 ![pandas](https://img.shields.io/badge/-Pandas-000000?style=flat&logo=pandas)
+![Jupyter](https://img.shields.io/badge/-Jupyter-000000?style=flat&logo=Jupyter)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=Markdown)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-000000?style=flat&logo=Cloudflare)
 ![jsDelivr](https://img.shields.io/badge/-jsDelivr-000000?style=flat&logo=jsDelivr)
