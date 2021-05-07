@@ -3,7 +3,7 @@
 ### :zap: Languages I use
 
 <img align="left" src="icons/javascript.svg" alt="JS" height="40px" />
-<img align="left" src="icons/nodejs.svg" alt="JS" height="40px" />
+<img align="left" src="icons/node-js.svg" alt="JS" height="40px" />
 <img align="left" src="icons/python.svg" alt="JS" height="40px" />
 <img align="left" src="icons/php.svg" alt="JS" height="40px" />
 
