@@ -1,11 +1,13 @@
-## :man_technologist:  Hey!  i'm [Eric](https://shen-yu.gitee.io/), a developer from China.
+## :man_technologist: Hey! i'm [Eric](https://shen-yu.gitee.io/), a developer from China.
 
 ### :zap: Languages I use
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
+<img align="left" src="icons/javascript.svg" alt="JS" height="40px" />
+<img align="left" src="icons/nodejs.svg" alt="JS" height="40px" />
+<img align="left" src="icons/python.svg" alt="JS" height="40px" />
+<img align="left" src="icons/php.svg" alt="JS" height="40px" />
+
+<br><br>
 
 ### :rocket: Some of the technologies I have worked with
 
@@ -66,14 +68,52 @@
 [![Cloudflare](https://img.shields.io/badge/-Cloudflare-000000?style=flat&logo=Cloudflare)](https://www.cloudflare.com/)
 [![jsDelivr](https://img.shields.io/badge/-jsDelivr-000000?style=flat&logo=jsDelivr)](https://github.com/jsdelivr/jsdelivr)
 [![Awesome](https://img.shields.io/badge/-Awesome-000000?style=flat&logo=awesome-lists)](https://github.com/sindresorhus/awesome)
+<br><br>
 
 ### 💡 Projects with My Work
 
-- [hexo-theme-ayer](https://github.com/Shen-Yu/hexo-theme-ayer) - a clean and elegant theme for Hexo.
-- [hexo-tag-chart](https://github.com/Shen-Yu/hexo-tag-chart) - insert Chartjs in Hexo by using tags.
-- [hugo-chart](https://github.com/Shen-Yu/hugo-chart) - a Chart.js component for Hugo.
-- [b2-viewer](https://github.com/Shen-Yu/b2-viewer) - a web file browser for Backblaze B2.
-- [IPTV-list](https://github.com/Shen-Yu/iptv-list) - IPTV-list makes it easy to copy and play IPTV channels.
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>🛎 Issues</b></td>
+      <td><b>📬 Pull requests</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/Shen-Yu/hexo-theme-ayer"><b>Ayer</b></a> - a clean and elegant theme for Hexo</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Shen-Yu/hexo-theme-ayer?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Shen-Yu/hexo-theme-ayer?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Shen-Yu/hexo-theme-ayer?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Shen-Yu/hexo-theme-ayer?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Shen-Yu/hugo-chart"><b>a Chart.js component for Hugo</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Shen-Yu/hugo-chart?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Shen-Yu/hugo-chart?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Shen-Yu/hugo-chart?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Shen-Yu/hugo-chart?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+	  <tr>
+      <td><a href="https://github.com/Shen-Yu/hexo-tag-chart"><b>insert Chartjs in Hexo by using tags</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Shen-Yu/hexo-tag-chart?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Shen-Yu/hexo-tag-chart?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Shen-Yu/hexo-tag-chart?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Shen-Yu/hexo-tag-chart?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Shen-Yu/iptv-list"><b>makes it easy to copy and play IPTV channels</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Shen-Yu/iptv-list?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Shen-Yu/iptv-list?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Shen-Yu/iptv-list?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Shen-Yu/iptv-list?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
+<br><br>
 
 ### 💻 Open Source Work Stats
 
