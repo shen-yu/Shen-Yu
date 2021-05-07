@@ -84,28 +84,28 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/Shen-Yu/hexo-theme-ayer"><b>Ayer</b></a> - a clean and elegant theme for Hexo</td>
+      <td><a href="https://github.com/Shen-Yu/hexo-theme-ayer"><b>hexo-theme-ayer</b></a> - a clean and elegant theme for Hexo</td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/Shen-Yu/hexo-theme-ayer?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/Shen-Yu/hexo-theme-ayer?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/Shen-Yu/hexo-theme-ayer?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Shen-Yu/hexo-theme-ayer?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Shen-Yu/hugo-chart"><b>a Chart.js component for Hugo</b></a></td>
+      <td><a href="https://github.com/Shen-Yu/hugo-chart"><b>hugo-chart</b></a> - a Chart.js component for Hugo</td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/Shen-Yu/hugo-chart?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/Shen-Yu/hugo-chart?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/Shen-Yu/hugo-chart?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Shen-Yu/hugo-chart?style=flat-square&labelColor=343b41"/></td>
     </tr>
 	  <tr>
-      <td><a href="https://github.com/Shen-Yu/hexo-tag-chart"><b>insert Chartjs in Hexo by using tags</b></a></td>
+      <td><a href="https://github.com/Shen-Yu/hexo-tag-chart"><b>hexo-tag-chart</b></a> - insert Chartjs in Hexo by using tags</td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/Shen-Yu/hexo-tag-chart?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/Shen-Yu/hexo-tag-chart?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/Shen-Yu/hexo-tag-chart?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Shen-Yu/hexo-tag-chart?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Shen-Yu/iptv-list"><b>makes it easy to copy and play IPTV channels</b></a></td>
+      <td><a href="https://github.com/Shen-Yu/iptv-list"><b>iptv-list</b></a> - makes it easy to copy and play IPTV channels</td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/Shen-Yu/iptv-list?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/Shen-Yu/iptv-list?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/Shen-Yu/iptv-list?style=flat-square&labelColor=343b41"/></td>
@@ -113,7 +113,7 @@
     </tr>
   </tbody>
 </table>
-<br><br>
+<br>
 
 ### 💻 Open Source Work Stats
 
