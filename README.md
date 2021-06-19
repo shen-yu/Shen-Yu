@@ -84,10 +84,11 @@
   <thead align="center">
     <tr border: none;>
       <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
+      <td><b>⭐</b></td>
+      <td><b>📚</b></td>
+      <td><b>🛎</b></td>
+      <td><b>📬</b></td>
+      <td><b>🚀</b></td>
     </tr>
   </thead>
   <tbody>
@@ -97,6 +98,7 @@
       <td><img alt="Forks" src="https://img.shields.io/github/forks/Shen-Yu/hexo-theme-ayer?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/Shen-Yu/hexo-theme-ayer?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Shen-Yu/hexo-theme-ayer?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Languages" src="https://img.shields.io/github/languages/top/Shen-Yu/hexo-theme-ayer?color=orange&style=flat-square"></td>
     </tr>
     <tr>
       <td><a href="https://github.com/Shen-Yu/hugo-chart"><b>hugo-chart</b></a> - a Chart.js component for Hugo</td>
@@ -104,13 +106,15 @@
       <td><img alt="Forks" src="https://img.shields.io/github/forks/Shen-Yu/hugo-chart?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/Shen-Yu/hugo-chart?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Shen-Yu/hugo-chart?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Languages" src="https://img.shields.io/github/languages/top/Shen-Yu/hugo-chart?color=orange&label=golang&style=flat-square"></td>
     </tr>
 	  <tr>
-      <td><a href="https://github.com/Shen-Yu/hexo-tag-chart"><b>hexo-tag-chart</b></a> - insert Chartjs in Hexo by using tags</td>
+      <td><a href="https://github.com/Shen-Yu/hexo-tag-chart"><b>hexo-tag-chart</b></a> - insert Chart.js in Hexo by using tags</td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/Shen-Yu/hexo-tag-chart?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/Shen-Yu/hexo-tag-chart?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/Shen-Yu/hexo-tag-chart?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Shen-Yu/hexo-tag-chart?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Languages" src="https://img.shields.io/github/languages/top/Shen-Yu/hexo-tag-chart?color=orange&style=flat-square"></td>
     </tr>
     <tr>
       <td><a href="https://github.com/Shen-Yu/iptv-list"><b>iptv-list</b></a> - makes it easy to copy and play IPTV channels</td>
@@ -118,6 +122,23 @@
       <td><img alt="Forks" src="https://img.shields.io/github/forks/Shen-Yu/iptv-list?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/Shen-Yu/iptv-list?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Shen-Yu/iptv-list?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Languages" src="https://img.shields.io/github/languages/top/Shen-Yu/iptv-list?color=orange&style=flat-square"></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Shen-Yu/food-market-notice"><b>food-market-notice</b></a> - food markets' price daily notice.</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Shen-Yu/food-market-notice?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Shen-Yu/food-market-notice?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Shen-Yu/food-market-notice?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Shen-Yu/food-market-notice?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Languages" src="https://img.shields.io/github/languages/top/Shen-Yu/food-market-notice?color=orange&style=flat-square"></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Shen-Yu/typography-theme-vue"><b>typography-theme-vue</b></a> - a theme for Typography.js inspired by Vue document.</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Shen-Yu/typography-theme-vue?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Shen-Yu/typography-theme-vue?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Shen-Yu/typography-theme-vue?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Shen-Yu/typography-theme-vue?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Languages" src="https://img.shields.io/github/languages/top/Shen-Yu/typography-theme-vue?color=orange&style=flat-square"></td>
     </tr>
   </tbody>
 </table>
