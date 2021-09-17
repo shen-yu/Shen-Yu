@@ -126,13 +126,6 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/Shen-Yu/food-market-notice?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Shen-Yu/food-market-notice?style=flat-square&labelColor=343b41"/></td>
     </tr>
-    <tr>
-      <td><a href="https://github.com/Shen-Yu/typography-theme-vue"><b>typography-theme-vue</b></a> - a theme for Typography.js inspired by Vue document.</td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Shen-Yu/typography-theme-vue?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Shen-Yu/typography-theme-vue?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/Shen-Yu/typography-theme-vue?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Shen-Yu/typography-theme-vue?style=flat-square&labelColor=343b41"/></td>
-    </tr>
   </tbody>
 </table>
 <br>
